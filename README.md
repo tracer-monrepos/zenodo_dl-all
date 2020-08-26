@@ -1,7 +1,7 @@
 Instructions Zenodo - download all
 ================
 Ivan Calandra
-2020-08-26 12:09:24
+2020-08-26 12:28:04
 
   - [Purpose](#purpose)
   - [R instructions](#r-instructions)
@@ -18,10 +18,6 @@ Ivan Calandra
 
 This document details the steps to download all the files from a given
 Zenodo record, either using R or Python.
-
-Note that the code is there only to show the steps taken to download the
-file and is therefore not evaluated
-(`knitr::opts_chunk$set(eval=FALSE)`).
 
 -----
 

@@ -17,7 +17,6 @@ knitr::opts_chunk$set(comment = NA, message = FALSE, indent = "", error = TRUE, 
 # Purpose
 This document details the steps to download all the files from a given Zenodo record, either using R or Python.
 
-Note that the code is there only to show the steps taken to download the file and is therefore not evaluated (`knitr::opts_chunk$set(eval=FALSE)`).
 
 ---
 
